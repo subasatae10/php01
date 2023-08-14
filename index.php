@@ -6,6 +6,27 @@
     <title>Document</title>
 </head>
 <body>
-   php01 
+    <?php
+    echo "Natdanai <br>613021109-8 <br>Labphp01";
+    
+    echo "natdanai ";
+    echo "<br>";
+    echo "613021109-8";
+    
+    
+    
+    
+    
+    
+    ?>
+    
+   
+    <?php 
+    
+    
+    ?>
+    <?php
+
+    ?>
 </body>
 </html>
